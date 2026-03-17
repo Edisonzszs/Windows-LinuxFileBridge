@@ -2,3 +2,10 @@ __pycache__/
 *.pyc
 transfer_history.json
 dist/
+.venv_test/
+_pyinstaller_src/
+build_pyinstaller/
+build_pyinstaller_onefile/
+dist_pyinstaller/
+dist_pyinstaller_onefile/
+*.spec
